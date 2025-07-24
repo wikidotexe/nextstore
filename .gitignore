@@ -30,4 +30,4 @@ yarn.lock
 yarn-error.log
 /test-results
 /playwright-report
-/docker-compose.yaml
+/docker-compose.yml
